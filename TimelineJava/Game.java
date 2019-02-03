@@ -53,7 +53,7 @@ public class Game {
         fr.close();
         br.close();
         
-        //Shuffle decj
+        //Shuffle deck
         Collections.shuffle(deck);
         
         //Print suffled deck

@@ -34,7 +34,7 @@ public class Game {
         BufferedReader br = null;
 	FileReader fr = null;
         
-        fr = new FileReader("src/cards.txt");
+        fr = new FileReader("src/cards.txt"); //Edit path according to system
 	br = new BufferedReader(fr);
         
         String currentLine;
